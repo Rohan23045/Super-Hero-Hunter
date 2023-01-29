@@ -201,7 +201,7 @@ input::placeholder {
 
 #search-results li .hero-name {
      transition: all 0.2s ease;
-     /* cursor: url(../images/thanos.png),auto; */
+     
 
 }
 
@@ -229,7 +229,7 @@ input::placeholder {
 }
 
 .hero-name {
-     /* cursor: url(../images/thanos.png),auto !important; */
+     
      font-size: 26px;
 }
 
