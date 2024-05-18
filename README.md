@@ -18,7 +18,7 @@ Make this list persistent (should have the same number of superheroes before and
 Remove from favourites button: Each superhero should have remove from favourites button, clicking on which should remove that superhero from the list
 
 ### PRODUCT DEMO:
-[LIVE PRODUCT](https://super-hero-hunter-app.000webhostapp.com/)
+[LIVE PRODUCT](https://super-hero-hunter.onrender.com/)
 
 
 [CODE](https://github.com/Rohan23045/Super-Hero-Hunter.git)
